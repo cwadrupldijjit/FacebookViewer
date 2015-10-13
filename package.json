@@ -1,0 +1,28 @@
+{
+  "name": "facebookviewer",
+  "version": "1.0.0",
+  "description": "FacebookViewer\r ==============",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwadrupldijjit/facebookviewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwadrupldijjit/facebookviewer/issues"
+  },
+  "homepage": "https://github.com/cwadrupldijjit/facebookviewer#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "express-session": "^1.11.3",
+    "passport": "^0.3.0",
+    "passport-facebook": "^2.0.0"
+  }
+}

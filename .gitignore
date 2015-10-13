@@ -1,0 +1,4 @@
+node_modules
+bower_components
+sensitive-data.txt
+node_config.js
